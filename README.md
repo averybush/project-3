@@ -1,4 +1,4 @@
-# Project 3 response
+# Project 3 Repos
 [Avery Bush Github User Page](https://averybush.github.io/)
 
 ## 281 Project 3 Learning Outcomes
